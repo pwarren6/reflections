@@ -46,3 +46,22 @@ gives us an idea of the project structure.
 
 -------------------------------------
 
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+Through merging two branches, we commit the changes from one branch to another without destroying the former.
+Representing it in the diagram as it was shows us how the merge process works; through merging,
+we don't eliminate all the commits from the previous branch;
+we just eliminate the label.
+
+-------------------------------------
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+In terms of doing merges manually, you would have to always be aware of any changes
+in the different branches and how they would affect the merge in particular.
+Also, if you want to keep the good changes from both differing versions in your merge,
+you would use manual merging over automatic merging.
+
+-------------------------------------
+
