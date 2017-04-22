@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you use 'git init' command, you create and initialize an empty .git repository.
+The reason you would need to do this is for whenever you want to start a new document,
+start a new project, muck around with some code, etc.
+
+-------------------------------------
+
