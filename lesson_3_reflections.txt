@@ -1,0 +1,8 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+I feel using a remote repository aside from keeping work local is essential for
+when you want to update to the remote repository from your local computer, or when someone wants to commit to your project from theirs.
+By using a remote repository, it makes projects made within a group of developers much easier than doing it locally.
+
+--------------------------------------
+
