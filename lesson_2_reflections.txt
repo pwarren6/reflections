@@ -6,3 +6,14 @@ start a new project, muck around with some code, etc.
 
 -------------------------------------
 
+How is the staging area different from the working directory and the respoitory?
+What value do you think it offers?
+
+The staging area is a temporary field primarily used to bundle changed files into commits.
+In terms of value, it brings connectivity between the working directory and the repository.
+Without the staging area, there would be no way to commit more than
+one file to the respotiroy; i.e., it would had to have been done
+one file per commit at a time.
+
+-------------------------------------
+
