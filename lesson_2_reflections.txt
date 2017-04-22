@@ -17,3 +17,21 @@ one file per commit at a time.
 
 -------------------------------------
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+With the staging area, you can compare the differences between:
+Either the working directory and the staging area (git diff);
+The staging area and the first commit (git diff --staged).
+
+Using the git diff with the --staged argument
+allows you to see what changes you've made prior to the commit.
+
+-------------------------------------
+
+What are some situations when branches would be helpful
+in keeping your history organized? How would branches help?
+
+Branches can be useful for when you want to test experimental features
+but you want to keep the master branch intact, or when you want to make a different version of the project
+that involves, say a different language. Using branches for these reasons will help you in testing features
+you want to add to the master branch later.
