@@ -16,3 +16,13 @@ manually helps to get you into the habit of making pulls from your repository to
 your local data the same as on your GitHub repository.
 
 --------------------------------------
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+Forks are GitHub's version of cloning; that is, when you want to make a clone of someone else's repository to use.
+	With forking, this can only be done on GitHub.
+Clones are git repositories you created from the original.
+	With cloning, you can do it either in GitHub or in your local repository.
+Branches are considered versions of your git repository that contain different code from the 'master' branch.
+	Branching can be done in GitHub or in your local repository.
