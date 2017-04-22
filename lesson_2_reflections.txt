@@ -35,3 +35,14 @@ Branches can be useful for when you want to test experimental features
 but you want to keep the master branch intact, or when you want to make a different version of the project
 that involves, say a different language. Using branches for these reasons will help you in testing features
 you want to add to the master branch later.
+
+-------------------------------------
+
+How do the diagrams help you visualize the branch structure?
+
+Drawing diagrams of your branches, as well as the commits each branch contains,
+assists us with understanding not only a branch's initial commit, but also
+gives us an idea of the project structure.
+
+-------------------------------------
+
