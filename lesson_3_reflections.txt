@@ -6,3 +6,13 @@ By using a remote repository, it makes projects made within a group of developer
 
 --------------------------------------
 
+Why might you want to always pull changes manually rather than
+having Git automatically stay up-to-date with your remote repository?
+
+While having automatic, up-to-date pulls with the remote repository sounds better,
+there are some drawbacks. One drawback would be doing pulls on an interval, but there
+isn't anything to pull from the repository, i.e. there have been no commits. Doing pulls
+manually helps to get you into the habit of making pulls from your repository to keep
+your local data the same as on your GitHub repository.
+
+--------------------------------------
