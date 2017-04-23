@@ -51,3 +51,9 @@ from there you can push and pull each other's branches to share code.
 
 --------------------------------------
 
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+Working directly in the master branch should only be done if you're working on a project alone
+or with one or two people. Any group larger than this, however, should require making changes
+in separate branches so that they can be reviewed and approved of accordingly.
