@@ -26,3 +26,16 @@ Clones are git repositories you created from the original.
 	With cloning, you can do it either in GitHub or in your local repository.
 Branches are considered versions of your git repository that contain different code from the 'master' branch.
 	Branching can be done in GitHub or in your local repository.
+
+--------------------------------------
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+One benefit to having this copy is when you accidentally create a commit on the remote that showed up on your GitHub repo.
+In this case, having the copy means you can revert back to that copy and push it to the remote copy on GitHub.
+
+Plus, having your own copy saved locally means you have to watch out for merge conflicts
+between updates on GitHub and updates on your local repository.
+
+--------------------------------------
+
