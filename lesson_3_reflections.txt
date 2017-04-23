@@ -39,3 +39,15 @@ between updates on GitHub and updates on your local repository.
 
 --------------------------------------
 
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+
+Collaboration without using Git or GitHub would be doable, but much more difficult.
+For example, having access to master branches for pull requests would be more difficult than
+if you were using GitHub. One way of doing this would be to set up your own git server.
+
+Or if you like, you could have a service that sets up the repo for you;
+from there you can push and pull each other's branches to share code.
+
+--------------------------------------
+
